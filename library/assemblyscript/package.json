@@ -1,6 +1,6 @@
 {
   "name": "@rocketshipinc/rocketship",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "types": "assembly/index.ts",
   "description": "acmeco's Runnable API for AssemblyScript",
   "main": "assembly/index.ts",
